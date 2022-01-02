@@ -36,6 +36,11 @@
 * Any text editor
 
 # Instalasi
+## Heroku Buildpack
+
+Click the deploy icon below !
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SnappyXD/bot)
 ## For Windows
 ```bash
 git clone https://github.com/Xinz-Team/XinzBot.git
